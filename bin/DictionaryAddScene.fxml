@@ -146,7 +146,7 @@
                   </HBox>
                </top>
                <center>
-                  <TextArea fx:id="textAreaDefenition" prefHeight="469.0" prefWidth="435.0" promptText="Word's defenition" style="-fx-focus-color: #ffbdca; -fx-faint-focus-color: transparent;" BorderPane.alignment="CENTER" />
+                  <TextArea fx:id="textAreaDefenition" prefHeight="469.0" prefWidth="435.0" promptText="Word's definition" style="-fx-focus-color: #ffbdca; -fx-faint-focus-color: transparent;" BorderPane.alignment="CENTER" />
                </center>
                <bottom>
                   <Button fx:id="saveButton" maxHeight="1.7976931348623157E308" minWidth="-Infinity" mnemonicParsing="false" onAction="#saveButtonPressed" prefWidth="66.0" style="-fx-background-color: #a82d5e;" text="Save" textFill="WHITE" BorderPane.alignment="CENTER_RIGHT">

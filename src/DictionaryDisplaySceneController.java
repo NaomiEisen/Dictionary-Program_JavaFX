@@ -91,8 +91,8 @@ public class DictionaryDisplaySceneController {
 			}
 		});
 
-		// set listView to display all dictionary content
-		updateFilteredWords("");
+		// clear search text field and display all dictionary content
+		clearSearchTextField();
 	}
 
 	@FXML
@@ -146,8 +146,8 @@ public class DictionaryDisplaySceneController {
 		// disable the Done button
 		doneButton.setDisable(true);
 
-		// update listView to display all dictionary content
-		updateFilteredWords("");
+		// clear search text field and display all dictionary content
+		clearSearchTextField();
 	}
 	 
 	 
@@ -168,8 +168,8 @@ public class DictionaryDisplaySceneController {
 		// clear the text areas
 		clearTextArea();
 
-		// set listView to display all dictionary content
-		updateFilteredWords("");
+		// clear search text field and display all dictionary content
+		clearSearchTextField();
     }
 
 
@@ -179,8 +179,8 @@ public class DictionaryDisplaySceneController {
     	// add predefined content
     	dictionary.autoFill();
     	
-    	// update listView 
-    	updateFilteredWords("");
+    	// clear search text field and display all dictionary content
+    	clearSearchTextField();
     }
 
 
@@ -202,8 +202,8 @@ public class DictionaryDisplaySceneController {
     	disableTextAreaButtons(true);
     	doneButton.setDisable(true);
     	
-    	// update the listView
-    	updateFilteredWords("");
+    	// clear search text field and display all dictionary content
+    	clearSearchTextField();
 
     }
     
@@ -243,6 +243,13 @@ public class DictionaryDisplaySceneController {
     private void clearTextArea() {
         textAreaWord.clear();
         textAreaDefinition.clear();
+    }
+    
+    /* Utility method - clears the text areas */
+    private void clearSearchTextField() {
+    	// update listView to display all dictionary content
+    	updateFilteredWords("");
+    	searchTextField.clear();
     }
     
     /* Utility method - sets the 'editable' attribute of the text area based on the 
