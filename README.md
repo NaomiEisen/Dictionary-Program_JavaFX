@@ -35,7 +35,7 @@ This project was developed as part of the Open University Java course task on Ad
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Run the main application file (`Main.java` or similar) to launch the JavaFX dictionary application.
+3. Run the main application file (`Dictionary.java`) to launch the JavaFX dictionary application.
 4. Explore the features mentioned above to manage and interact with the dictionary.
 
 ## Technologies Used
