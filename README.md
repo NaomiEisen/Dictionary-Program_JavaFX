@@ -5,7 +5,7 @@ This JavaFX application provides a user-friendly interface for managing a dictio
 This project was developed as part of the Open University Java course task on Advanced Programming with Java.
 
 ## Demo
-![Screenshot](https://github.com/NaomiEisen/Dictionary_Program_JavaFX/assets/166138356/9237d00b-5c44-45c2-96c4-9c5ba5756bac)
+![Screenshotsmall](https://github.com/NaomiEisen/Dictionary_Program_JavaFX/assets/166138356/53a12fe6-1aca-4f4e-be71-be9af3d30eb8)
 
 ## Features
 
@@ -48,7 +48,11 @@ This project was developed as part of the Open University Java course task on Ad
 - Scene Builder (for GUI design)
 - CSS (for styling)
 
+## Custom Icons
+
+- Custom-designed icons were created for the application's graphical user interface (GUI) using Adobe Photoshop CS6.
+
 ## Contributors
 
-- [Naomi Eisenstark] - Project Developer
+- [Naomi Eisenstark] 
 
