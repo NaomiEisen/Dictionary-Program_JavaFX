@@ -4,6 +4,9 @@ This JavaFX application provides a user-friendly interface for managing a dictio
 ## Task Information
 This project was developed as part of the Open University Java course task on Advanced Programming with Java.
 
+## Demo
+![dictionaryScreanshot](https://github.com/NaomiEisen/Dictionary_Program_JavaFX/assets/166138356/067590a9-edc4-4146-bc92-99f2b0679d96)
+
 ## Features
 
 ### Adding Element to Dictionary
