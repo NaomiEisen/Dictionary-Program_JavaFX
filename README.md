@@ -5,7 +5,7 @@ This JavaFX application provides a user-friendly interface for managing a dictio
 This project was developed as part of the Open University Java course task on Advanced Programming with Java.
 
 ## Demo
-![dictionaryScreanshot](https://github.com/NaomiEisen/Dictionary_Program_JavaFX/assets/166138356/067590a9-edc4-4146-bc92-99f2b0679d96)
+![dictionaryScreanshotSmall](https://github.com/NaomiEisen/Dictionary_Program_JavaFX/assets/166138356/15cff513-915d-49ce-bb96-0dcd5b93237d)
 
 ## Features
 
